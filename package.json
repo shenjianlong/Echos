@@ -62,7 +62,7 @@
     "husky": "^1.0.0-rc.6",
     "jest": "^24.8.0",
     "less": "^2.7.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.13",
     "miniprogram-simulate": "^1.0.7"
   },
   "dependencies": {}
